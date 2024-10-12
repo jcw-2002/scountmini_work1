@@ -1,0 +1,2 @@
+show_data:show_distance
+-DCATKIN_DEVEL_PREFIX=/home/agilex/program/work1/scoutmini_work/work_place/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/program/work1/scoutmini_work/work_place/install -G Unix Makefiles

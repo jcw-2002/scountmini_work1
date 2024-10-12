@@ -1,0 +1,8 @@
+prefix=/home/agilex/program/work1/scoutmini_work/work_place/install
+
+Name: show_distance
+Description: Description of show_distance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
